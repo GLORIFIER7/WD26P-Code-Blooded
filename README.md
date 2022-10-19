@@ -1,6 +1,3 @@
-# WD26-Code-Blooded
-glorifier
-GitHub/WD26-Code-Blooded/s07/index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
